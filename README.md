@@ -84,5 +84,5 @@ Storytelling and marketplace platform supporting small-scale Kenyan coffee farme
 
 * Email: [wangariwangome@gmail.com](mailto:wangariwangome@gmail.com)
 * GitHub: github.com/WangariW
-*📍 Nairobi, Kenya
+* 📍 Nairobi, Kenya
 * 💼 Open to internships and junior developer roles
